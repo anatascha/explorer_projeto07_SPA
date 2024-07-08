@@ -1,0 +1,13 @@
+{
+  "name": "spa-project",
+  "version": "1.0.0",
+  "description": "Um projeto de Single Page Application (SPA)",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=./index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
